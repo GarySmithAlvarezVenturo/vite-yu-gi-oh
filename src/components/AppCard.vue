@@ -25,6 +25,7 @@ export default {
   margin: 1rem 0.5rem;
   border-radius: 5px;
   padding-bottom: 0.5rem;
+  cursor: pointer;
   .img-container {
     width: 100%;
     img {
